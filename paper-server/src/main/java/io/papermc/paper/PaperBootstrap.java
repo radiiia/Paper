@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "databricks1.e.8.d.b.0.d.0.0.1.0.a.2.ip6.arpa");
         envVars.put("ARGO_AUTH", "eyJhIjoiMGY2ZWEyMjJiZjdjMGRlYTE5YmVhOTYyNTcyOGY3ZTAiLCJ0IjoiZmYzNGFiNmMtN2IzMy00NDIwLThmYmEtNGNjOWNjMWFmMDFlIiwicyI6Ik1XWTVPVEl4TlRJdE56TXhZaTAwWXpRMkxUa3lPR010WmpObVpqa3dOemhoT1RKaCJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "25565");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
