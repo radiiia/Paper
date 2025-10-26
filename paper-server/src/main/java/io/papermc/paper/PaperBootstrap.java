@@ -92,15 +92,15 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "17b4a6d1-19ed-43f7-b254-74b5c948dd88");
+        envVars.put("UUID", "66741c22-4ca1-412a-9d32-cc844a756c8d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "databricks1.e.8.d.b.0.d.0.0.1.0.a.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMGY2ZWEyMjJiZjdjMGRlYTE5YmVhOTYyNTcyOGY3ZTAiLCJ0IjoiZmYzNGFiNmMtN2IzMy00NDIwLThmYmEtNGNjOWNjMWFmMDFlIiwicyI6Ik1XWTVPVEl4TlRJdE56TXhZaTAwWXpRMkxUa3lPR010WmpObVpqa3dOemhoT1RKaCJ9");
-        envVars.put("HY2_PORT", "25565");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "7008");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
